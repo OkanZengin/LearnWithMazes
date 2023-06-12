@@ -1,0 +1,34 @@
+import arcade
+
+MENU_BACKGROUND_IMAGE = "images/menu_background.jpg"
+SCREEN_WIDTH = 600
+SCREEN_HEIGHT = 600
+BACKGROUND_IMAGE = "images/background.jpg"
+BUTTON_WIDTH = 50
+BUTTON_HEIGHT = 50
+background_icon_x = 300
+background_icon_y = 550
+background_icon_scale = 0.2
+maze_list = []
+start_y = 400
+maze_text_x = 10
+maze_text_spacing = 30
+rect_width = 110
+rect_height = 20
+rect_spacing = 5
+num_rows = 11
+num_cols = 6
+button_1_x = 70
+button_1_y = 550
+button_1_width = 100
+button_1_height = 40
+button_2_x = 530
+button_2_y = 530
+button_2_width = 100
+button_2_height = 100
+button_3_x = 300
+button_3_y = 80
+button_3_width = 100
+button_3_height = 50
+button_width = 110
+button_height = 20
